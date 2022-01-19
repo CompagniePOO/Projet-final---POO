@@ -1,4 +1,5 @@
 from tkinter import *
+from transactions import *
 from PIL import ImageTk, Image  
 import time
 import yfinance
@@ -8,9 +9,12 @@ import os
 
 class Main():
   def __init__():
+    pass
+
 
 root = Tk()
-
+Titre = Label(root, text = "Banque Crypto")
+Titre.pack()
 
 logo = Canvas(root, width = 150, height = 130)
 logo.pack(side=TOP, anchor = NW)
