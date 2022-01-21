@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import filedialog
 
 rootMan = Tk()
 rootMan.title("Écran du Gérant")
