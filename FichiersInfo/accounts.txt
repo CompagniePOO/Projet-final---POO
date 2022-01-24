@@ -1,0 +1,3 @@
+Don, 123, 79458.22133991272, POOMAN, Account#1357, Luca Nicoletti
+Pat, 321, 100000.04625249052, patrick@gmail.com, Account#13412, Patrick Bonini
+Alec, 0420, -3063.871356821518, alec@gmail.com, Account#7531, Alec Fraser
